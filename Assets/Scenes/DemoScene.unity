@@ -227,6 +227,12 @@ PrefabInstance:
       propertyPath: _timeBetweenSpawns
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 3346705462805400980, guid: 2077c115ca4ddf8459e561442dcbb849,
+        type: 3}
+      propertyPath: _spawnManager
+      value: 
+      objectReference: {fileID: 11400000, guid: cc11716f872327d4299c77fc735565d3,
+        type: 2}
     - target: {fileID: 3346705462805400981, guid: 2077c115ca4ddf8459e561442dcbb849,
         type: 3}
       propertyPath: m_RootOrder
@@ -883,6 +889,12 @@ PrefabInstance:
       propertyPath: _timeBetweenSpawns
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 3346705462805400980, guid: 2077c115ca4ddf8459e561442dcbb849,
+        type: 3}
+      propertyPath: _spawnManager
+      value: 
+      objectReference: {fileID: 11400000, guid: cc11716f872327d4299c77fc735565d3,
+        type: 2}
     - target: {fileID: 3346705462805400981, guid: 2077c115ca4ddf8459e561442dcbb849,
         type: 3}
       propertyPath: m_RootOrder
@@ -1950,6 +1962,12 @@ PrefabInstance:
       propertyPath: _timeBetweenSpawns
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 3346705462805400980, guid: 2077c115ca4ddf8459e561442dcbb849,
+        type: 3}
+      propertyPath: _spawnManager
+      value: 
+      objectReference: {fileID: 11400000, guid: cc11716f872327d4299c77fc735565d3,
+        type: 2}
     - target: {fileID: 3346705462805400981, guid: 2077c115ca4ddf8459e561442dcbb849,
         type: 3}
       propertyPath: m_RootOrder
@@ -2103,6 +2121,12 @@ PrefabInstance:
       propertyPath: _timeBetweenSpawns
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 3346705462805400980, guid: 2077c115ca4ddf8459e561442dcbb849,
+        type: 3}
+      propertyPath: _spawnManager
+      value: 
+      objectReference: {fileID: 11400000, guid: cc11716f872327d4299c77fc735565d3,
+        type: 2}
     - target: {fileID: 3346705462805400981, guid: 2077c115ca4ddf8459e561442dcbb849,
         type: 3}
       propertyPath: m_RootOrder
